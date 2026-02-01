@@ -24,7 +24,19 @@ Designed and upgraded a LoRa-based wireless weather monitoring system capable of
 - Microcontroller  
 - Temperature/Humidity Sensors  
 - 16×2 LCD  
-- Power Module  
+- Power Module
+
+## 📸 Hardware Implementation
+
+### Transmitter Unit
+![Transmitter](images/transmitter.jpeg)
+
+### Receiver Unit
+![Receiver](images/receiver.jpeg)
+
+## 📊 Cloud Dashboard (ThingSpeak)
+![ThingSpeak](images/dashboard.jpeg)
+
 
 ## 🌐 Cloud Integration
 Sensor → LoRa → Microcontroller → Cloud → Remote Dashboard

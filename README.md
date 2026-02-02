@@ -29,12 +29,12 @@ Designed and upgraded a LoRa-based wireless weather monitoring system capable of
 ## 📸 Hardware Implementation
 
 ### Transmitter Unit
-![Transmitter](Images/Receiver.jpeg)
-![Transmitter](Images/receiverside.ngg)
+![Receiver](Images/Transmitter.jpeg)
+![Transmitter](Images/sender.jpg)
 
 ### Receiver Unit
-![Receiver](Images/Transmitter.jpeg)
-![Transmitter](Images/Sender.jpg)
+![Transmitter](Images/Receiver.jpeg)
+![Transmitter](Images/receiver side.png)
 
 ## 📊 Cloud Dashboard (ThingSpeak)
 ![ThingSpeak](Images/dashboard.jpeg)
